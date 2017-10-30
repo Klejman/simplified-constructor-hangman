@@ -1,0 +1,22 @@
+{
+  "name": "simplified-constructor-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "letter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klejman/simplified-constructor-hangman.git"
+  },
+  "author": "Katie Lejman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Klejman/simplified-constructor-hangman/issues"
+  },
+  "homepage": "https://github.com/Klejman/simplified-constructor-hangman#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
